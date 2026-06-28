@@ -32,7 +32,7 @@ export default function Page() {
 
       <section className="mx-auto flex min-h-[calc(100vh-5.5rem)] w-full max-w-6xl items-center px-6 py-10 sm:px-10 lg:px-12">
         <div className="grid w-full gap-6 lg:grid-cols-[0.95fr_1.05fr]">
-          <aside className="flex flex-col justify-between gap-8 rounded-[2rem] border border-white/10 bg-white/10 p-6 shadow-2xl shadow-slate-950/30 backdrop-blur-xl sm:p-8 lg:p-10">
+          <aside className="flex flex-col justify-between gap-8 rounded-4xl border border-white/10 bg-white/10 p-6 shadow-2xl shadow-slate-950/30 backdrop-blur-xl sm:p-8 lg:p-10">
             <div className="space-y-4">
               <p className="text-sm font-semibold uppercase tracking-[0.35em] text-cyan-200/80">
                 Contact
